@@ -11,3 +11,4 @@ File Descriptions: index.html: Contains the HTML structure of the web applicatio
 How to Run the Project: Download or clone the project files. Open index.html in a web browser to view and interact with the to-do list web application.
 
 OUTPUT
+![Screenshot 2024-08-31 180634](https://github.com/user-attachments/assets/5d274e9f-5187-44cc-b736-5c2c7695e336)
