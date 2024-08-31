@@ -1,5 +1,6 @@
 # CODTECH-TASK02
 NAME - VINEET SISODIYA COMPANY - CODTECH IT SOLUTIONS ID - CT08DS7084 DOMAIN - WEB DEVELOPMENT DURATION - AUGUST TO SEPTEMBER 2024
+
 Overview of the project: Project Overview: This project is a simple yet functional to-do list web application. It allows users to add, delete, and mark tasks as complete.
 
 Technologies Used: HTML: For structuring the web page. CSS: For styling the web page. JavaScript: For adding interactivity to the web page.
